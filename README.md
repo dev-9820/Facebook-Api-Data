@@ -14,3 +14,5 @@ http://localhost:3000/
 
 on your browser and everything should work perfectly
 (until i deploy it online)
+
+here is the working video.
